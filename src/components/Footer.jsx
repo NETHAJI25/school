@@ -56,15 +56,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-gray-400 text-sm">
                 <Mail className="w-4 h-4 text-gold flex-shrink-0" />
-                <span>hello@schoolverse.in</span>
+                <span>dexloradevelopers@gmail.com</span>
               </li>
               <li className="flex items-center gap-2 text-gray-400 text-sm">
                 <Phone className="w-4 h-4 text-gold flex-shrink-0" />
-                <span>+91 99999 99999</span>
+                <span>+91 94451 80946</span>
               </li>
               <li className="flex items-start gap-2 text-gray-400 text-sm">
                 <MapPin className="w-4 h-4 text-gold flex-shrink-0 mt-0.5" />
-                <span>India</span>
+                <span>Aravind Muthiah — Customer Care</span>
               </li>
             </ul>
           </div>
